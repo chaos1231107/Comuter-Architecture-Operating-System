@@ -1,2 +1,2 @@
-# Comuter-Architecture-Operating-System
-git Comuter Architecture &amp; Operating System repository
+# Computer_Architecture and Operating_System
+git Compuuter_Architecture and Operating_System repository
