@@ -4,6 +4,8 @@
 ## 2. thread 와 multithread
 ## <참고서적>
 ### https://github.com/kangtegong
+### pthread_self() :
+#### https://wariua.github.io/man-pages-ko/pthread_self%283%29/
 ### pthread_create() : 
 #### https://man7.org/linux/man-pages/man3/pthread_create.3.html
 ### pthread_join() : 
