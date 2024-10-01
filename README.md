@@ -5,7 +5,7 @@
 ## 3. CPU Scheduling 이란 : CPU를 쓰고자 하는 다양한 프로세스들중 어떤 프로세스를 우선적으로 CPU에 할당할지 정하는 것 
 ## 4. Process Synchronization(프로세스 동기화)란? : 하나의 자원을 하나의 프로세스에서만 쓰게 하는 것.
 ### ✅ Process Synchronization에서의 Critical Section(임계구역) : 코드 상에서 Race Condition이 발생할 수 있는 구간, 공유데이터를 접근하는 코드 구간. ✅
-#### ✅ Race Condition(경쟁상태) : 공유자원에 동시에 접근할 때, 결과값에 영향을 줄 수 있는 상황 ✅
+#### ✅ Race Condition(경쟁상태) : 두 개 이상의 프로세스가 공유자원에 동시에 접근할 때, 결과값에 영향을 줄 수 있는 상황 ✅
 ## <참고서적> 
 ### 📘 UNIX System (정승주 저) 
 ### 📘 혼자 공부하는 컴퓨터구조, 운영체제(강민철 저) 
