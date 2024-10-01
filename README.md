@@ -12,11 +12,11 @@
 ### 🖥️ https://lrl.kr/pNjy
 ### 🖥️ https://namu.wiki/w/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4
 ### 🖥️ https://github.com/kangtegong
-### pthread_self() :
+### ✅ pthread_self() :
 #### 🖥️ https://wariua.github.io/man-pages-ko/pthread_self%283%29/
-### pthread_create() : 
+### ✅ pthread_create() : 
 #### 🖥️ https://man7.org/linux/man-pages/man3/pthread_create.3.html
-### pthread_join() : 
+### ✅ pthread_join() : 
 #### 🖥️ https://man7.org/linux/man-pages/man3/pthread_join.3.html
 ### 프로세스 동기화 :
 #### 🖥️ https://rebro.kr/176
