@@ -23,4 +23,3 @@
 #### 🖥️ https://rebro.kr/176
 ### Race Condition(경쟁상태) :
 #### 🖥️ https://lrl.kr/ho1s
-git Compuuter_Architecture and Operating_System repository
