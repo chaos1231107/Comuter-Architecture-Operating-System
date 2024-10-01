@@ -9,7 +9,7 @@
 #### ✅ Race Condition(경쟁상태) : 두 개 이상의 프로세스가 공유자원에 동시에 접근할 때, 결과값에 영향을 줄 수 있는 상황 ✅
 ## <참고서적> 
 ### 📘 UNIX System (정승주 저) 
-### 📘 혼자 공부하는 컴퓨터구조, 운영체제(강민철 저) 
+### 📘 혼자 공부하는 컴퓨터구조 + 운영체제(강민철 저) 
 ### 🖥️ https://lrl.kr/pNjy
 ### 🖥️ https://namu.wiki/w/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4
 ### 🖥️ https://github.com/kangtegong
