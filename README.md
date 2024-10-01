@@ -21,5 +21,5 @@
 ### 프로세스 동기화 :
 #### 🖥️ https://rebro.kr/176
 ### Race Condition(경쟁상태) :
-#### 🖥️ https://velog.io/@yanghl98/OS%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-Race-Condition-%EC%A0%95%EC%9D%98-%EB%B0%9C%EC%83%9D-%EC%9D%B4%EC%9C%A0-%ED%95%B4%EA%B2%B0%EB%B2%95
+#### 🖥️ https://lrl.kr/ho1s
 git Compuuter_Architecture and Operating_System repository
