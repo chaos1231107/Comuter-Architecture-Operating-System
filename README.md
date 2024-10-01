@@ -9,7 +9,7 @@
 ## <참고서적> 
 ### 📘 UNIX System (정승주 저) 
 ### 📘 혼자 공부하는 컴퓨터구조, 운영체제(강민철 저) 
-### 🖥️ https://ko.wikipedia.org/wiki/%EC%8A%A4%EB%A0%88%EB%93%9C_(%EC%BB%B4%ED%93%A8%ED%8C%85)
+### 🖥️ https://lrl.kr/pNjy
 ### 🖥️ https://namu.wiki/w/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4
 ### 🖥️ https://github.com/kangtegong
 ### pthread_self() :
