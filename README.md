@@ -1,5 +1,5 @@
 # Self Learning Computer Architecture and Operating System
-## Programming Languages : C/C++
+## Programming Languages : C/C++, Python
 # 컴퓨터 구조 / 운영체제 주요 코드 모음
 ## 1. process란? : 컴퓨터에서 실행되고 있는 작업, 종종 cpu 스케줄링의 대상이 된다.
 ## 2. thread란? : 한 프로세스 내에서 실행되는 흐름의 단위, 한 프로세스는 보통 하나의 쓰레드를 가지나, 상황에 따라 여러 쓰레드를 포함하는 상황도 존재한다. 
