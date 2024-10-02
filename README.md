@@ -2,7 +2,7 @@
 ## Programming Languages : C/C++, Python
 # 컴퓨터 구조 / 운영체제 주요 코드 모음
 ## 1. process란? : 컴퓨터에서 실행되고 있는 작업, 종종 cpu 스케줄링의 대상이 된다.
-## 2. thread란? : 한 프로세스 내에서 실행되는 흐름의 단위, 한 프로세스는 보통 하나의 쓰레드를 가지나, 상황에 따라 여러 쓰레드를 포함하는 상황도 존재
+## 2. thread란? : 한 프로세스 내에서 실행되는 흐름의 단위, 한 프로세스는 보통 하나의 쓰레드를 가지나, 상황에 따라 여러 쓰레드를 포함하는 경우가 존재
 ## 3. CPU Scheduling 이란? : CPU를 쓰고자 하는 다양한 프로세스들중 어떤 프로세스를 우선적으로 CPU에 할당할지 정하는 것 
 ## 4. Process Synchronization(프로세스 동기화)란? : 하나의 자원을 하나의 프로세스에서만 쓰게 하는 것.
 ### ✅ Process Synchronization에서의 Critical Section(임계구역) : 코드 상에서 Race Condition이 발생할 수 있는 구간, 공유데이터를 접근하는 코드 구간.
